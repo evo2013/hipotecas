@@ -9,8 +9,8 @@ Calculadora de hipotecas multilingue app en Ruby orientado a un banco con mercad
 
 3. Elija entre la versión inglesa o española
 
-tipo ruby hipoteca.rb
+     tipo ruby hipoteca.rb
 
-o
+     o
 
-tipo ruby mortgage.rb
+     tipo ruby mortgage.rb
